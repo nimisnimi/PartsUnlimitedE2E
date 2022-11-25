@@ -5,7 +5,7 @@ namespace PartsUnlimited.Models
 // I could've added a note here too
     public class CartItem : ILineItem
     {
-        // my first comment is the first change 
+        // my first comment is the first change NOW IT'S EDITED
         [Key]
         public int CartItemId { get; set; }
 
